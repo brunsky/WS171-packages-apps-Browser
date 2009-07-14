@@ -119,9 +119,9 @@
     <string name="pref_content_load_images_summary">"Показывать картинки на веб-страницах"</string>
     <string name="pref_content_block_popups">"Блокировать всплывающие окна"</string>
     <string name="pref_content_javascript">"Включить JavaScript"</string>
-    <string name="pref_content_open_in_background">"Открыть в фоновом режиме"</string>
+    <string name="pref_content_open_in_background">"Открывать в фоновом режиме"</string>
     <string name="pref_content_open_in_background_summary">"Новые окна открываются позади текущего окна"</string>
-    <string name="pref_content_homepage">"Настроить главную страницу"</string>
+    <string name="pref_content_homepage">"Выбрать главную страницу"</string>
     <string name="pref_content_autofit">"Подгонять страницы"</string>
     <string name="pref_content_autofit_summary">"Подгонять веб-страницы под размер экрана"</string>
     <string name="pref_privacy_title">"Настройки конфиденциальности"</string>
@@ -144,9 +144,9 @@
     <string name="pref_security_remember_passwords">"Сохранять пароли"</string>
     <string name="pref_security_remember_passwords_summary">"Сохранять имена пользователей и пароли для веб-сайтов"</string>
     <string name="pref_security_save_form_data">"Сохранять данные форм"</string>
-    <string name="pref_security_save_form_data_summary">"Запоминать данные, введенные в формы, для дальнейшего использования"</string>
+    <string name="pref_security_save_form_data_summary">"Запоминать введенные данные для дальнейшего использования"</string>
     <string name="pref_security_show_security_warning">"Показывать предупреждения безопасности"</string>
-    <string name="pref_security_show_security_warning_summary">"Показывать предупреждение, если обнаружены проблемы с безопасностью сайта"</string>
+    <string name="pref_security_show_security_warning_summary">"Сообщать о найденных проблемах с безопасностью сайта"</string>
     <string name="pref_security_accept_cookies">"Разрешить cookie"</string>
     <string name="pref_security_accept_cookies_summary">"Разрешить сайтам сохранять и читать файлы cookie"</string>
     <string name="pref_text_size">"Настроить размер текста"</string>

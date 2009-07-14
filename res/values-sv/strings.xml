@@ -154,7 +154,7 @@
     <item>"Pytteliten"</item>
     <item>"Liten"</item>
     <item>"Normal"</item>
-    <item>"Stora"</item>
+    <item>"Stor"</item>
     <item>"Mycket stor"</item>
   </string-array>
     <string name="pref_text_size_dialogtitle">"Textstorlek"</string>

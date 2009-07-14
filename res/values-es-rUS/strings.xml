@@ -120,13 +120,13 @@
     <string name="pref_content_block_popups">"Bloquear ventanas emergentes"</string>
     <string name="pref_content_javascript">"Habilitar JavaScript"</string>
     <string name="pref_content_open_in_background">"Abrir en modo subordinado"</string>
-    <string name="pref_content_open_in_background_summary">"Hay ventanas nuevas abiertas detrás de la ventana actual"</string>
+    <string name="pref_content_open_in_background_summary">"Las ventanas nuevas se abren detrás de la actual"</string>
     <string name="pref_content_homepage">"Definir página de inicio"</string>
     <string name="pref_content_autofit">"Ajuste automático de páginas"</string>
     <string name="pref_content_autofit_summary">"Formatea las páginas web para que se ajusten a la pantalla"</string>
     <string name="pref_privacy_title">"Configuración de privacidad"</string>
     <string name="pref_privacy_clear_cache">"Borrar caché"</string>
-    <string name="pref_privacy_clear_cache_summary">"Eliminar todo el contenido de la página en caché"</string>
+    <string name="pref_privacy_clear_cache_summary">"Eliminar todo el contenido de la página del caché"</string>
     <string name="pref_privacy_clear_cache_dlg">"Se borrará el caché."</string>
     <string name="pref_privacy_clear_cookies">"Borrar todos los datos de cookies"</string>
     <string name="pref_privacy_clear_cookies_summary">"Borrar todas las cookies del navegador"</string>
@@ -151,7 +151,7 @@
     <string name="pref_security_accept_cookies_summary">"Permitir que los sitios guarden y lean datos de las \"cookies\""</string>
     <string name="pref_text_size">"Definir tamaño del texto"</string>
   <string-array name="pref_text_size_choices">
-    <item>"Pequeño"</item>
+    <item>"Más pequeño"</item>
     <item>"Pequeño"</item>
     <item>"Normal"</item>
     <item>"Grande"</item>
