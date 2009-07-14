@@ -235,7 +235,7 @@
     <string name="download_file_error">"Não é possível concluir a transferência. Não existe espaço suficiente."</string>
     <string name="download_length_required">"Não é possível transferir porque o tamanho do item é indeterminado."</string>
     <string name="download_precondition_failed">"A transferência foi interrompida e não pode ser retomada."</string>
-    <string name="activity_instrumentation_test_runner">"Teste·de·browser"</string>
+    <string name="activity_instrumentation_test_runner">"Teste de browser"</string>
     <string name="search_google">"Pesquisar no Google"</string>
     <string name="permlab_readHistoryBookmarks">"ler histórico e marcadores do browser"</string>
     <string name="permdesc_readHistoryBookmarks">"Permite que a aplicação leia todos os URLs visitados pelo browser e todos os marcadores do browser."</string>
