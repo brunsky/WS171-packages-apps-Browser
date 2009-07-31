@@ -129,7 +129,7 @@
     <string name="pref_privacy_clear_cache_summary">"Удалить все кэшированное содержание страницы"</string>
     <string name="pref_privacy_clear_cache_dlg">"Кэш будет очищен."</string>
     <string name="pref_privacy_clear_cookies">"Очистить все данные cookie"</string>
-    <string name="pref_privacy_clear_cookies_summary">"Очистить все cookie браузера"</string>
+    <string name="pref_privacy_clear_cookies_summary">"Удалить все cookie браузера"</string>
     <string name="pref_privacy_clear_cookies_dlg">"Все cookie будут удалены."</string>
     <string name="pref_privacy_clear_history">"Очистить историю"</string>
     <string name="pref_privacy_clear_history_summary">"Очистить историю браузера"</string>

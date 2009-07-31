@@ -166,7 +166,7 @@
     <string name="pref_plugin_installed_empty_list">"Nenhum plug-in instalado."</string>
     <string name="pref_extras_gears_settings_summary">"Aplicativos que estendem a funcionalidade do navegador"</string>
     <string name="pref_extras_reset_default">"Redefinir para o padrão"</string>
-    <string name="pref_extras_reset_default_summary">"Limpar todos os dados do navegador e redefinir todas as configurações para o padrão"</string>
+    <string name="pref_extras_reset_default_summary">"Limpar dados do navegador e redefinir as configurações para o padrão"</string>
     <string name="pref_extras_reset_default_dlg">"Todos os dados do navegador serão limpos e as configurações voltarão para os valores padrão."</string>
     <string name="pref_extras_reset_default_dlg_title">"Redefinir para o padrão"</string>
     <string name="pref_development_title">"Depurar"</string>

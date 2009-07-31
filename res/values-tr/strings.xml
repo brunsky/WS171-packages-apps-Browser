@@ -58,7 +58,7 @@
     <string name="stopping">"Durduruluyor..."</string>
     <string name="stop">"Durdur"</string>
     <string name="reload">"Yenile"</string>
-    <string name="forward">"Yönlendir"</string>
+    <string name="forward">"İleri"</string>
     <string name="save">"Tamam"</string>
     <string name="do_not_save">"İptal"</string>
     <string name="location">"Konum"</string>
@@ -159,7 +159,7 @@
   </string-array>
     <string name="pref_text_size_dialogtitle">"Metin boyutu"</string>
     <string name="pref_extras_title">"Gelişmiş ayarlar"</string>
-    <string name="pref_extras_gears_enable">"Gears\'ı Etkinleştir"</string>
+    <string name="pref_extras_gears_enable">"Gears\'ı etkinleştir"</string>
     <string name="pref_extras_gears_enable_summary">"Tarayıcınızın işlevini artıran uygulamalar"</string>
     <string name="pref_extras_gears_settings">"Gears ayarları"</string>
     <string name="pref_plugin_installed">"Eklenti listesi"</string>

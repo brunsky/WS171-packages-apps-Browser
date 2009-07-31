@@ -15,7 +15,7 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="application_name">"Webbläsare"</string>
+    <string name="application_name">"Webbläs."</string>
     <string name="tab_bookmarks">"Bokmärken"</string>
     <string name="tab_most_visited">"Mest besökta"</string>
     <string name="tab_history">"Historik"</string>
@@ -143,7 +143,7 @@
     <string name="pref_security_title">"Säkerhetsinställningar"</string>
     <string name="pref_security_remember_passwords">"Kom ihåg lösenord"</string>
     <string name="pref_security_remember_passwords_summary">"Spara användarnamn och lösenord på webbplatser"</string>
-    <string name="pref_security_save_form_data">"Spara data i formulär"</string>
+    <string name="pref_security_save_form_data">"Spara formulärdata"</string>
     <string name="pref_security_save_form_data_summary">"Kom ihåg data som jag anger i formulär för senare bruk"</string>
     <string name="pref_security_show_security_warning">"Visa säkerhetsvarningar"</string>
     <string name="pref_security_show_security_warning_summary">"Visa varningar om det uppstår problem med en webbplats säkerhet"</string>
@@ -165,10 +165,10 @@
     <string name="pref_plugin_installed">"Lista över insticksprogram"</string>
     <string name="pref_plugin_installed_empty_list">"Inga insticksprogram har installerats."</string>
     <string name="pref_extras_gears_settings_summary">"Program som ger utökade webbläsarfunktioner"</string>
-    <string name="pref_extras_reset_default">"Återställ standardinställningarna"</string>
+    <string name="pref_extras_reset_default">"Återställ standardinställn."</string>
     <string name="pref_extras_reset_default_summary">"Ta bort alla data i webbläsaren och återställ standardinställningarna"</string>
     <string name="pref_extras_reset_default_dlg">"Alla data i webbläsaren tas bort och standardinställningarna återställs."</string>
-    <string name="pref_extras_reset_default_dlg_title">"Återställ standardinställningarna"</string>
+    <string name="pref_extras_reset_default_dlg_title">"Återställ standardinställn."</string>
     <string name="pref_development_title">"Felsökning"</string>
     <string name="pref_default_text_encoding">"Ange textkodning"</string>
   <string-array name="pref_default_text_encoding_choices">

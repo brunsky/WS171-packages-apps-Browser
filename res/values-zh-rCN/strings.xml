@@ -81,7 +81,7 @@
     <string name="delete_bookmark_warning">"将会删除书签“<xliff:g id="BOOKMARK">%s</xliff:g>”。"</string>
     <string name="open_in_new_window">"在新窗口中打开"</string>
     <string name="new_window">"新窗口"</string>
-    <string name="goto_dot">"开始"</string>
+    <string name="goto_dot">"输入网址"</string>
     <string name="find_dot">"在网页上查找"</string>
     <string name="select_dot">"选择文字"</string>
     <string name="view_tabs">"窗口概述"</string>
@@ -146,7 +146,7 @@
     <string name="pref_security_save_form_data">"记住表单数据"</string>
     <string name="pref_security_save_form_data_summary">"记住我在表单中输入的数据以便于以后使用"</string>
     <string name="pref_security_show_security_warning">"显示安全警告"</string>
-    <string name="pref_security_show_security_warning_summary">"当网站的安全有问题时显示警告"</string>
+    <string name="pref_security_show_security_warning_summary">"当网站安全性出现问题时显示警告"</string>
     <string name="pref_security_accept_cookies">"接受 Cookie"</string>
     <string name="pref_security_accept_cookies_summary">"允许网站保存并读取 Cookie 数据"</string>
     <string name="pref_text_size">"设置文字大小"</string>

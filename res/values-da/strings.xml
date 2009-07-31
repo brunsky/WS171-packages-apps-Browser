@@ -107,7 +107,7 @@
     <string name="contextmenu_download_image">"Gem billede"</string>
     <string name="contextmenu_view_image">"Vis billede"</string>
     <string name="contextmenu_dial_dot">"Ring til ..."</string>
-    <string name="contextmenu_add_contact">"Tilføj kontaktperson"</string>
+    <string name="contextmenu_add_contact">"Tilføj kontakt"</string>
     <string name="contextmenu_send_mail">"Send e-mail"</string>
     <string name="contextmenu_map">"Kort"</string>
     <string name="clear">"Ryd"</string>
@@ -122,7 +122,7 @@
     <string name="pref_content_open_in_background">"Åbn i baggrunden"</string>
     <string name="pref_content_open_in_background_summary">"Nye vinduer åbnes bag det nuværende"</string>
     <string name="pref_content_homepage">"Indstil startside"</string>
-    <string name="pref_content_autofit">"Automatisk tilpassede sider"</string>
+    <string name="pref_content_autofit">"Aut. tilpassede sider"</string>
     <string name="pref_content_autofit_summary">"Formater websider til at passe til skærmen"</string>
     <string name="pref_privacy_title">"Fortrolighedsindstillinger"</string>
     <string name="pref_privacy_clear_cache">"Ryd cache"</string>
@@ -259,7 +259,7 @@
     <string name="settings_location_subtitle_on">"Dette websted kan læse din aktuelle placering"</string>
     <string name="settings_location_subtitle_off">"Dette websted kan ikke læse din aktuelle placering"</string>
     <string name="settings_remove_site">"Fjern dette websted fra Gears"</string>
-    <string name="settings_empty">"Der er ikke indstillet nogen tilladelser"</string>
+    <string name="settings_empty">"Der er ikke indstillet nogen tillad."</string>
     <string name="settings_confirmation_remove_title">"Fjern dette websted"</string>
     <string name="settings_confirmation_remove">"Alle tilladelser ryddes, og alle data, som er gemt på din telefon af webstedet, slettes."</string>
     <string name="storage_notification">"Dette websted gemmer oplysninger på din telefon."\n" Skift denne indstilling i:"\n" Indstillinger-&gt; Indstillinger for Gears"</string>
