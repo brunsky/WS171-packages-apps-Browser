@@ -91,8 +91,8 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.LAUNCHER" />
                 <category android:name="android.intent.category.BROWSABLE" />
+		<category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
             <!-- The maps app is a much better experience, so it's not
                  worth having this at all... especially for a demo!

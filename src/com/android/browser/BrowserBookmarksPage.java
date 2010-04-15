@@ -90,12 +90,13 @@ public class BrowserBookmarksPage extends Activity implements
         case R.id.edit_context_menu_id:
             editBookmark(i.position);
             break;
-        case R.id.shortcut_context_menu_id:
-            final Intent send = createShortcutIntent(getUrl(i.position),
-                    getBookmarkTitle(i.position), getFavicon(i.position));
-            send.setAction(INSTALL_SHORTCUT);
-            sendBroadcast(send);
-            break;
+        // GILL MARKED
+        //case R.id.shortcut_context_menu_id:
+        //    final Intent send = createShortcutIntent(getUrl(i.position),
+        //            getBookmarkTitle(i.position), getFavicon(i.position));
+        //    send.setAction(INSTALL_SHORTCUT);
+        //    sendBroadcast(send);
+        //    break;
         case R.id.delete_context_menu_id:
             displayRemoveBookmarkDialog(i.position);
             break;
