@@ -585,7 +585,7 @@
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
         <item>Camangi WebStation Online Manual</item>
-        <item>http://www.camangi.com/manual.html</item>
+        <item>http://www.camangi.com/select_manual.html</item>
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>Picasa</item>
